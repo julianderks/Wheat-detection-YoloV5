@@ -1,0 +1,4 @@
+train: data/wheat_data/images/train
+val: data/wheat_data/images/validation
+nc: 1
+names: ["wheat"]
